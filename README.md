@@ -2,7 +2,7 @@
 
 # 💫 Hey, I'm Jameer Ahmed!
 
-### 🚀 CS & Business Systems Student | Cloud Enthusiast | Community Builder
+### 🚀 Full Stack Developer | Cloud Enthusiast | Community Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AWS+SBG+Founding+Lead+%E2%98%81%EF%B8%8F;Microsoft+Learn+Student+Ambassador+%F0%9F%AA%9F;Top+2+Mentor+%E2%80%94+GDG+Study+Jams+%F0%9F%8F%86;Product+Contributor+%40+DevLoom+%F0%9F%9B%A0%EF%B8%8F;Building+Communities+%26+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
 
