@@ -1,10 +1,23 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Shaik%20Jameer%20Ahmed&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Builder%20%7C%20Cloud%20%26%20Full-Stack%20Dev%20%7C%20Community%20Leader&descAlignY=58&descAlign=50&descSize=16&descColor=c4b5fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Shaik%20Jameer%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%26%20Full-Stack%20Dev%20%7C%20Community%20Leader&descAlignY=56&descAlign=50&descSize=17&descColor=c4b5fd" alt="header"/>
+
+</div>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%40+Amazon+Web+Services;🎓+Microsoft+Learn+Student+Ambassador+(MLSA);🔵+GDG+Technical+Associate+Lead+%40+Google;🚀+Product+Contributor+%40+DevLoom;🧠+250%2B+LeetCode+%7C+100-Day+Streak;🏆+BizVIT+Hackathon+Winner+%7C+Top+2+Mentor+India;💭+Always+Building+Something+New...)](https://git.io/typing-svg)
+<div align="center">
+
+### *"I'm Jameer Ahmed, a final-year Computer Science and Business Systems student.*
+### *I'm someone who loves building — whether that's software or communities."*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%40+Amazon+Web+Services;🎓+Microsoft+Learn+Student+Ambassador+(MLSA);🔵+GDG+Technical+Associate+Lead+%40+Google;🚀+Product+Contributor+%40+DevLoom;🧠+250%2B+LeetCode+%7C+223-Day+Max+Streak;🏆+BizVIT+Hackathon+Winner+%7C+Top+2+Mentor+India;💭+Always+Building+Something+New...)](https://git.io/typing-svg)
 
 <br/>
 
@@ -41,7 +54,7 @@ const jameer: Developer = {
   seeking     : "SDE Internship Opportunities 🚀",
 
   strengths   : ["Problem Solving", "Public Speaking", "Mentorship", "Community Building"],
-  funFact     : "Maintained a 100-day LeetCode streak & still going 🔥",
+  funFact     : "223-day max LeetCode streak — consistency is my superpower 🔥",
   status      : "💭 always building...",
 };
 ```
@@ -104,7 +117,7 @@ const jameer: Developer = {
 |:---|:---|
 | 🏆 **BizVIT Hackathon Winner** | 1st Prize among 50+ teams |
 | 💻 **Google The Big Code 2026** | Round 2 Qualifier — Top **1,500 students nationally** |
-| 🧠 **LeetCode** | **250+ problems** solved · **100-day** coding streak |
+| 🧠 **LeetCode** | **250+ problems** solved · **223-day** max streak |
 | 🥈 **Top 2 Mentor — India** | Google Cloud Study Jams · Led institution to Tier-1 GDG |
 | ☁️ **AWS Cloud Club Founder** | First AWS-recognized student cloud club on campus |
 | 📊 **Naukri Young Turks 2025** | **97th Percentile** in national skill assessment |
@@ -173,11 +186,29 @@ const jameer: Developer = {
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Stats & Badges
 
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/jameer-xxvi?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔥 Max Streak — 223 Days
+
+| 🏅 Badge | 📅 Achieved |
+|:---:|:---:|
+| 🥇 Annual Badge 2025 | Dec 27, 2025 |
+| 💜 200 Days Badge 2025 | Aug 14, 2025 |
+| 💙 100 Days Badge 2025 | May 05, 2025 |
+| 💚 50 Days Badge ✅ Active | — |
+| 🟡 June Badge | Jun 30, 2025 |
+| 🟡 May Badge | May 31, 2025 |
+| 🟡 April Badge | Apr 30, 2025 |
 
 </div>
 
@@ -187,7 +218,11 @@ const jameer: Developer = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -215,7 +250,7 @@ const jameer: Developer = {
 
 💬 Let's talk **Cloud · Full-Stack · DSA · Open Source · Community Building**
 
-📬 Reach me → [jameer.xxvi@gmail.com](mailto:jameer.xxvi@gmail.com) · [LinkedIn](https://linkedin.com/in/jameer-ahmed-6047b3288)
+📬 [jameer.xxvi@gmail.com](mailto:jameer.xxvi@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/jameer-ahmed-6047b3288) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@jameerverse_26)
 
 <br/>
 
@@ -224,4 +259,6 @@ const jameer: Developer = {
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
