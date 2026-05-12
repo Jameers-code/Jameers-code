@@ -44,9 +44,9 @@ const jameer: Developer = {
   batch       : "2023 – 2027",
 
   roles       : [
-    "☁️  AWS Cloud Captain",
-    "🎓  Microsoft Learn Student Ambassador (MLSA)",
-    "🔵  GDG Technical Associate Lead",
+    "☁️  AWS Cloud Captain"(Amazon Web Services),
+    "🎓  Microsoft Student Ambassador (MLSA)",
+    "🔵  GDG Technical Associate Lead"(Google Developer Groups),
     "🔓  Product Contributor @ DevLoom",
   ],
 
