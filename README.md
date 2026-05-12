@@ -1,76 +1,86 @@
  <div align="center">
 
-# 💫 Hey, I'm Jameer Ahmed!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jameer%20Shaik&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20the%20Future%20from%20Hyderabad%20🚀&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa"/>
 
-### 🚀 Full Stack Developer | Cloud Enthusiast | Community Builder
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=☁️+AWS+Cloud+Captain;🎓+Microsoft+Learn+Student+Ambassador+(MLSA);🧠+250%2B+LeetCode+Problems+Solved;🚀+Open-Source+Contributor+%40+Devloom;🌍+Community+Leader+%26+Tech+Evangelist;💭+Always+Building+Something+New...)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=AWS+SBG+Founding+Lead+%E2%98%81%EF%B8%8F;Microsoft+Learn+Student+Ambassador+%F0%9F%AA%9F;Top+2+Mentor+%E2%80%94+GDG+Study+Jams+%F0%9F%8F%86;Product+Contributor+%40+DevLoom+%F0%9F%9B%A0%EF%B8%8F;Building+Communities+%26+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameer-ahmed-6047b3288)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jameer-xxvi/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jameerverse_26)
+[![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/jameer-ahmed-shaik.3e255508)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jameers-code)
 
 </div>
 
 ---
 
-## 🌟 About Me
+## 🙋‍♂️ Who Am I?
 
-I'm a final-year **Computer Science and Business Systems** student who loves building — whether that's software or communities.
-
-- ☁️ **AWS SBG Founding Lead** — introduced a global cloud community to our institute for the first time
-- 🪟 **Microsoft Learn Student Ambassador** — leading initiatives and collaborating with industry professionals
-- 🏆 **Top 2 Mentor** in GDG Study Jams Program, helping our college secure a **Top 2 ranking across India**
-- 🛠️ **Product Contributor** at DevLoom
-- 🎯 Successfully onboarded our campus onto the **official AWS Builder platform**
-- 💡 Skilled in C++, DSA, Cloud Technologies, and Full-Stack Development
-
-> *"I don't just write code — I build experiences, communities, and opportunities."*
+```ts
+const jameer = {
+  name        : "Jameer Shaik",
+  role        : "AWS Cloud Captain ☁️ | MLSA 🎓 | Open-Source Dev 🔓",
+  location    : "Hyderabad, India 🇮🇳",
+  currentFocus: "Building cool stuff & growing the dev community",
+  askMeAbout  : ["Cloud", "DSA", "React", "Open Source", "Community Building"],
+  funFact     : "I debug with console.log and I'm proud of it 😄",
+  status      : "💭 always building..."
+};
+```
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Achievements & Highlights
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@jameerverse_26)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jameer-ahmed-6047b3288)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jameer.code/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/jameer-xxvi/)
+| 🏅 Role | 📌 Detail |
+|:---|:---|
+| ☁️ **AWS Cloud Captain** | Recognized AWS community leader & cloud advocate |
+| 🎓 **MLSA** | Microsoft Learn Student Ambassador |
+| 🧠 **250+ LeetCode** | Consistent problem solver on [LeetCode](https://leetcode.com/u/jameer-xxvi/) |
+| 🔓 **Open-Source** | Active contributor @ [Devloom](https://github.com/devloom) |
+| 🌍 **Community Leader** | Building & mentoring developer communities |
 
 </div>
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Stack
 
-### 👨‍💻 Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<div align="center">
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+**Languages**
 
-### 🖥️ Frontend & Backend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+**Frontend**
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
 
 ---
 
@@ -78,29 +88,67 @@ I'm a final-year **Computer Science and Business Systems** student who loves bui
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=Jameers-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jameers-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jameers-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 
-![](https://streak-stats.demolab.com/?user=Jameers-code&theme=tokyonight&hide_border=true)
+</div>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jameers-code&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Jameers-code&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
 
 </div>
 
 ---
 
+## 🧠 LeetCode Stats
+
 <div align="center">
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jameers-code&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://leetcard.jacoblin.cool/jameer-xxvi?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10"/>
 
 </div>
 
 ---
 
+## 🐍 Contribution Graph
+
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Jameers-code&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Jameers-code)
-
-*⭐ From [Jameer Ahmed](https://github.com/Jameers-code) — Let's build something amazing together!*
+<img src="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Jameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jameers-code&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+> *"Code is not just a skill — it's a superpower. Share it, grow it, build with it."*
+> — Jameer Shaik
+
+<br/>
+
+💼 Open to **collaborations**, **open-source projects**, and **community events**
+
+📬 Reach me on [LinkedIn](https://linkedin.com/in/jameer-ahmed-6047b3288) or watch my content on [YouTube](https://www.youtube.com/@jameerverse_26)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jameers-code&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/Jameers-code?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/Jameers-code?tab=followers)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
