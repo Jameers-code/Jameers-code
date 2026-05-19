@@ -1,0 +1,18 @@
+<svg width="1200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#302b63;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="1200" height="200" fill="url(#headerGrad)"/>
+  <!-- Wave layers -->
+  <path d="M0,155 C100,135 200,165 300,148 C400,131 500,158 600,142 C700,126 800,155 900,138 C1000,121 1100,148 1200,132 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.04)"/>
+  <path d="M0,165 C150,148 300,170 450,155 C600,140 750,165 900,150 C1050,135 1150,158 1200,145 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.07)"/>
+  <path d="M0,175 C200,160 400,178 600,165 C800,152 1000,172 1200,160 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.05)"/>
+  <!-- Main Title -->
+  <text x="600" y="88" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff" letter-spacing="1">Shaik Jameer Ahmed</text>
+  <!-- Description -->
+  <text x="600" y="122" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#c4b5fd" letter-spacing="0.5">CS Undergrad  |  Cloud &amp; Full-Stack Dev  |  Community Leader</text>
+</svg>
