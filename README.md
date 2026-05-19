@@ -1,6 +1,6 @@
- <div align="center">
+  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Shaik%20Jameer%20Ahmed&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%26%20Full-Stack%20Dev%20%7C%20Community%20Leader&descAlignY=56&descAlign=50&descSize=17&descColor=c4b5fd" alt="header"/>
+<img width="100%" src="./header.svg" alt="header"/>
 
 </div>
 
@@ -261,4 +261,4 @@ const jameer: Developer = {
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" alt="footer"/>
+<img width="100%" src="./footer.svg" alt="footer"/>
