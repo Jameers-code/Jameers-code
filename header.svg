@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg" width="1000" height="420">
+<svg viewBox="0 0 1400 500" xmlns="http://www.w3.org/2000/svg" width="1400" height="500">
   <defs>
     <!-- Dark background gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -29,183 +29,183 @@
   </defs>
 
   <!-- Background -->
-  <rect width="1000" height="420" fill="url(#bgGrad)"/>
+  <rect width="1400" height="500" fill="url(#bgGrad)"/>
   <!-- Subtle texture overlay -->
-  <rect width="1000" height="420" fill="#222" opacity="0.3" filter="url(#noise)"/>
+  <rect width="1400" height="500" fill="#222" opacity="0.3" filter="url(#noise)"/>
   <!-- Vignette overlay -->
-  <rect width="1000" height="420" fill="url(#vignette)"/>
+  <rect width="1400" height="500" fill="url(#vignette)"/>
 
-  <!-- NAME: JAMEER AHMED in large serif/display style -->
-  <text x="500" y="115"
+  <!-- NAME: JAMEER AHMED in large serif style -->
+  <text x="700" y="140"
     font-family="'Georgia', 'Times New Roman', serif"
-    font-size="92"
-    font-weight="400"
+    font-size="120"
+    font-weight="300"
     fill="#ffffff"
     text-anchor="middle"
-    letter-spacing="8"
-    style="font-variant: small-caps;">JAMEER AHMED</text>
+    letter-spacing="12"
+    style="font-variant: normal;">JAMEER AHMED</text>
 
   <!-- Subtitle: FULL STACK DEVELOPER -->
-  <text x="500" y="158"
+  <text x="700" y="200"
     font-family="'Trebuchet MS', 'Arial', sans-serif"
-    font-size="22"
+    font-size="28"
     font-weight="300"
     fill="#cccccc"
     text-anchor="middle"
-    letter-spacing="10">FULL STACK DEVELOPER</text>
+    letter-spacing="14">FULL STACK DEVELOPER</text>
 
   <!-- ===== CARD 1: MICROSOFT ===== -->
   <!-- Card background -->
-  <rect x="58" y="200" width="190" height="185" rx="18" ry="18" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="58" y="200" width="190" height="185" rx="18" ry="18" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+  <rect x="120" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
+  <rect x="120" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
 
   <!-- Microsoft Logo (4 colored squares) -->
   <!-- Red square -->
-  <rect x="128" y="225" width="22" height="22" fill="#F25022"/>
+  <rect x="185" y="300" width="30" height="30" fill="#F25022"/>
   <!-- Green square -->
-  <rect x="153" y="225" width="22" height="22" fill="#7FBA00"/>
+  <rect x="220" y="300" width="30" height="30" fill="#7FBA00"/>
   <!-- Blue square -->
-  <rect x="128" y="250" width="22" height="22" fill="#00A4EF"/>
+  <rect x="185" y="335" width="30" height="30" fill="#00A4EF"/>
   <!-- Yellow square -->
-  <rect x="153" y="250" width="22" height="22" fill="#FFB900"/>
+  <rect x="220" y="335" width="30" height="30" fill="#FFB900"/>
 
   <!-- Microsoft text -->
-  <text x="153" y="307"
+  <text x="240" y="395"
     font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="15"
+    font-size="18"
     font-weight="800"
     fill="#ffffff"
     text-anchor="middle"
     letter-spacing="0.5">MICROSOFT</text>
-  <text x="153" y="326"
+  <text x="240" y="417"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">STUDENT</text>
-  <text x="153" y="344"
+  <text x="240" y="438"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">AMBASSADOR</text>
 
   <!-- ===== CARD 2: AWS ===== -->
-  <rect x="270" y="200" width="190" height="185" rx="18" ry="18" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="270" y="200" width="190" height="185" rx="18" ry="18" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+  <rect x="430" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
+  <rect x="430" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
 
   <!-- AWS Logo text "aws" -->
-  <text x="365" y="258"
+  <text x="550" y="345"
     font-family="'Arial Black', 'Helvetica Neue', sans-serif"
-    font-size="30"
+    font-size="38"
     font-weight="900"
     fill="#ffffff"
     text-anchor="middle"
     letter-spacing="1">aws</text>
   <!-- AWS smile arrow (orange arc) -->
-  <path d="M 325 268 Q 365 285 405 268"
+  <path d="M 495 360 Q 550 385 605 360"
     fill="none"
     stroke="#FF9900"
-    stroke-width="3"
+    stroke-width="4"
     stroke-linecap="round"/>
   <!-- Arrow tip on the right -->
-  <polygon points="403,262 409,268 403,274" fill="#FF9900"/>
+  <polygon points="602,352 612,360 602,368" fill="#FF9900"/>
 
   <!-- AWS text -->
-  <text x="365" y="307"
+  <text x="550" y="395"
     font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="15"
+    font-size="18"
     font-weight="800"
     fill="#ffffff"
     text-anchor="middle"
     letter-spacing="0.5">AWS</text>
-  <text x="365" y="326"
+  <text x="550" y="417"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">CLOUD</text>
-  <text x="365" y="344"
+  <text x="550" y="438"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">CAPTAIN</text>
 
   <!-- ===== CARD 3: GOOGLE ===== -->
-  <rect x="482" y="200" width="190" height="185" rx="18" ry="18" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="482" y="200" width="190" height="185" rx="18" ry="18" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+  <rect x="740" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
+  <rect x="740" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
 
   <!-- Google Developer Groups Logo (pill shapes) -->
   <!-- Blue pill (left, angled) -->
-  <rect x="539" y="228" width="38" height="18" rx="9" ry="9" fill="#4285F4" transform="rotate(-30 558 237)"/>
+  <rect x="790" y="305" width="50" height="24" rx="12" ry="12" fill="#4285F4" transform="rotate(-35 815 317)"/>
   <!-- Red pill (top right, angled) -->
-  <rect x="566" y="228" width="38" height="18" rx="9" ry="9" fill="#EA4335" transform="rotate(30 585 237)"/>
+  <rect x="835" y="305" width="50" height="24" rx="12" ry="12" fill="#EA4335" transform="rotate(35 860 317)"/>
   <!-- Yellow pill (bottom left, angled) -->
-  <rect x="539" y="252" width="38" height="18" rx="9" ry="9" fill="#FBBC05" transform="rotate(30 558 261)"/>
+  <rect x="790" y="335" width="50" height="24" rx="12" ry="12" fill="#FBBC05" transform="rotate(35 815 347)"/>
   <!-- Green pill (bottom right, angled) -->
-  <rect x="566" y="252" width="38" height="18" rx="9" ry="9" fill="#34A853" transform="rotate(-30 585 261)"/>
+  <rect x="835" y="335" width="50" height="24" rx="12" ry="12" fill="#34A853" transform="rotate(-35 860 347)"/>
 
   <!-- Google text -->
-  <text x="577" y="307"
+  <text x="860" y="395"
     font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="15"
+    font-size="18"
     font-weight="800"
     fill="#ffffff"
     text-anchor="middle"
     letter-spacing="0.5">GOOGLE</text>
-  <text x="577" y="326"
+  <text x="860" y="417"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">DEVELOPER</text>
-  <text x="577" y="344"
+  <text x="860" y="438"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">GROUPS</text>
 
   <!-- ===== CARD 4: LEETCODE ===== -->
-  <rect x="694" y="200" width="190" height="185" rx="18" ry="18" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="694" y="200" width="190" height="185" rx="18" ry="18" fill="none" stroke="#3a3a3a" stroke-width="1"/>
+  <rect x="1050" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
+  <rect x="1050" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
 
-  <!-- LeetCode Logo (stylized C with < and = ) -->
+  <!-- LeetCode Logo (stylized C with < and =) -->
   <!-- Outer orange arc -->
-  <path d="M 789 233 A 21 21 0 0 0 789 275"
+  <path d="M 1155 300 A 30 30 0 0 0 1155 360"
     fill="none"
     stroke="#FFA116"
-    stroke-width="8"
+    stroke-width="11"
     stroke-linecap="round"/>
-  <!-- < chevron (grey) -->
-  <polyline points="780,243 768,254 780,265"
+  <!-- < chevron (white) -->
+  <polyline points="1140,315 1122,330 1140,345"
     fill="none"
-    stroke="#B3B3B3"
-    stroke-width="5"
+    stroke="#ffffff"
+    stroke-width="7"
     stroke-linecap="round"
     stroke-linejoin="round"/>
-  <!-- = two lines (grey) -->
-  <line x1="773" y1="250" x2="787" y2="250" stroke="#B3B3B3" stroke-width="4" stroke-linecap="round"/>
-  <line x1="773" y1="259" x2="787" y2="259" stroke="#B3B3B3" stroke-width="4" stroke-linecap="round"/>
+  <!-- = two lines (white) -->
+  <line x1="1130" y1="320" x2="1150" y2="320" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+  <line x1="1130" y1="335" x2="1150" y2="335" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
 
   <!-- Leetcode text -->
-  <text x="789" y="307"
+  <text x="1170" y="395"
     font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="15"
+    font-size="18"
     font-weight="800"
     fill="#ffffff"
     text-anchor="middle"
     letter-spacing="0.5">LEETCODE</text>
-  <text x="789" y="326"
+  <text x="1170" y="417"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">PROBLEM</text>
-  <text x="789" y="344"
+  <text x="1170" y="438"
     font-family="'Arial', sans-serif"
-    font-size="13"
+    font-size="15"
     font-weight="400"
     fill="#bbbbbb"
     text-anchor="middle">SOLVING</text>
