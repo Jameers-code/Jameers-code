@@ -1,43 +1,51 @@
-<svg width="100%" viewBox="0 0 680 340" role="img" xmlns="http://www.w3.org/2000/svg">
+ <svg width="100%" viewBox="0 0 680 340" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>Jameer Ahmed – Full Stack Developer</title>
   <desc>Profile banner with four credential badges</desc>
+ 
   <rect width="680" height="340" fill="#1a1a1a"/>
-  <text x="340" y="80" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="56" font-weight="400" letter-spacing="4" fill="#e8e4dc">JAMEER AHMED</text>
-  <text x="340" y="114" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="400" letter-spacing="9" fill="#b0a898">FULL STACK DEVELOPER</text>
-  <line x1="190" y1="130" x2="490" y2="130" stroke="#444" stroke-width="0.5"/>
+ 
+  <text x="340" y="72" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-size="52" font-weight="400" letter-spacing="4" fill="#e8e4dc">JAMEER AHMED</text>
+  <text x="340" y="104" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="400" letter-spacing="9" fill="#b0a898">FULL STACK DEVELOPER</text>
+  <line x1="200" y1="120" x2="480" y2="120" stroke="#444" stroke-width="0.5"/>
+ 
   <!-- MICROSOFT -->
-  <rect x="44" y="148" width="138" height="168" rx="14" fill="#2a2a2a"/>
-  <rect x="91"  y="175" width="20" height="20" fill="#F25022"/>
-  <rect x="114" y="175" width="20" height="20" fill="#7FBA00"/>
-  <rect x="91"  y="198" width="20" height="20" fill="#00A4EF"/>
-  <rect x="114" y="198" width="20" height="20" fill="#FFB900"/>
-  <text x="113" y="242" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">MICROSOFT</text>
-  <text x="113" y="257" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">STUDENT</text>
-  <text x="113" y="272" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">AMBASSADOR</text>
+  <rect x="46" y="138" width="138" height="172" rx="12" fill="#2a2a2a"/>
+  <rect x="93" y="164" width="20" height="20" fill="#F25022"/>
+  <rect x="116" y="164" width="20" height="20" fill="#7FBA00"/>
+  <rect x="93"  y="187" width="20" height="20" fill="#00A4EF"/>
+  <rect x="116" y="187" width="20" height="20" fill="#FFB900"/>
+  <text x="115" y="232" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#ffffff" letter-spacing="0.8">MICROSOFT</text>
+  <text x="115" y="248" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">STUDENT</text>
+  <text x="115" y="263" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">AMBASSADOR</text>
+ 
   <!-- AWS -->
-  <rect x="194" y="148" width="138" height="168" rx="14" fill="#232F3E"/>
-  <text x="263" y="207" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="700" fill="#ffffff" letter-spacing="-1">aws</text>
-  <path d="M235,218 C241,227 252,231 263,229 C274,227 283,222 291,218" fill="none" stroke="#FF9900" stroke-width="3.5" stroke-linecap="round"/>
-  <path d="M289,216 C291,215 293,216 292,219" fill="none" stroke="#FF9900" stroke-width="3.5" stroke-linecap="round"/>
-  <text x="263" y="248" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">AWS</text>
-  <text x="263" y="263" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">CLOUD</text>
-  <text x="263" y="278" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">CAPTAIN</text>
+  <rect x="196" y="138" width="138" height="172" rx="12" fill="#232F3E"/>
+  <text x="265" y="196" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="38" font-weight="900" fill="#ffffff" letter-spacing="-1">aws</text>
+  <path d="M237,207 Q265,224 293,207" fill="none" stroke="#FF9900" stroke-width="4" stroke-linecap="butt"/>
+  <polygon points="237,207 243,203 241,210" fill="#FF9900"/>
+  <polygon points="293,207 288,203 295,213" fill="#FF9900"/>
+  <text x="265" y="242" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#ffffff" letter-spacing="0.8">AWS</text>
+  <text x="265" y="258" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">CLOUD</text>
+  <text x="265" y="273" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">CAPTAIN</text>
+ 
   <!-- GDG -->
-  <rect x="344" y="148" width="138" height="168" rx="14" fill="#2a2a2a"/>
-  <rect x="383" y="178" width="26" height="13" rx="6.5" fill="#4285F4" transform="rotate(-32,396,184)"/>
-  <rect x="383" y="202" width="26" height="13" rx="6.5" fill="#EA4335" transform="rotate(32,396,208)"/>
-  <rect x="416" y="178" width="26" height="13" rx="6.5" fill="#34A853" transform="rotate(32,429,184)"/>
-  <rect x="416" y="202" width="26" height="13" rx="6.5" fill="#FBBC04" transform="rotate(-32,429,208)"/>
-  <text x="413" y="242" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">GOOGLE</text>
-  <text x="413" y="257" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">DEVELOPER</text>
-  <text x="413" y="272" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">GROUPS</text>
+  <rect x="346" y="138" width="138" height="172" rx="12" fill="#2a2a2a"/>
+  <rect x="390" y="168" width="26" height="13" rx="6.5" fill="#4285F4" transform="rotate(-32,403,174)"/>
+  <rect x="390" y="192" width="26" height="13" rx="6.5" fill="#EA4335" transform="rotate(32,403,198)"/>
+  <rect x="417" y="168" width="26" height="13" rx="6.5" fill="#34A853" transform="rotate(32,430,174)"/>
+  <rect x="417" y="192" width="26" height="13" rx="6.5" fill="#FBBC04" transform="rotate(-32,430,198)"/>
+  <text x="415" y="232" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#ffffff" letter-spacing="0.8">GOOGLE</text>
+  <text x="415" y="248" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">DEVELOPER</text>
+  <text x="415" y="263" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">GROUPS</text>
+ 
   <!-- LEETCODE -->
-  <rect x="494" y="148" width="138" height="168" rx="14" fill="#2a2a2a"/>
-  <path d="M572,178 Q550,178 544,192 Q538,205 544,218 Q550,232 572,232" fill="none" stroke="#111111" stroke-width="9" stroke-linecap="round"/>
-  <path d="M563,178 Q570,174 577,177" fill="none" stroke="#FFA116" stroke-width="9" stroke-linecap="round"/>
-  <path d="M563,232 Q570,236 577,233" fill="none" stroke="#FFA116" stroke-width="9" stroke-linecap="round"/>
-  <rect x="544" y="201" width="32" height="9" rx="4.5" fill="#B3B3B3"/>
-  <text x="563" y="253" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="700" fill="#ffffff" letter-spacing="0.5">LEETCODE</text>
-  <text x="563" y="268" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">PROBLEM</text>
-  <text x="563" y="283" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11" fill="#aaaaaa">SOLVING</text>
+  <rect x="496" y="138" width="138" height="172" rx="12" fill="#2a2a2a"/>
+  <path d="M572,162 Q550,162 543,180 Q537,195 543,210 Q550,226 572,226"
+        fill="none" stroke="#111111" stroke-width="10" stroke-linecap="round"/>
+  <path d="M570,171 Q557,168 550,180 Q545,192 550,206 Q557,218 570,215"
+        fill="none" stroke="#FFA116" stroke-width="9" stroke-linecap="round"/>
+  <rect x="548" y="190" width="34" height="8" rx="4" fill="#B3B3B3"/>
+  <text x="565" y="245" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="11.5" font-weight="700" fill="#ffffff" letter-spacing="0.8">LEETCODE</text>
+  <text x="565" y="261" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">PROBLEM</text>
+  <text x="565" y="276" text-anchor="middle" font-family="'Helvetica Neue',Arial,sans-serif" font-size="10.5" fill="#999999">SOLVING</text>
 </svg>
