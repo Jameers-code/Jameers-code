@@ -1,213 +1,196 @@
-<svg viewBox="0 0 1400 500" xmlns="http://www.w3.org/2000/svg" width="1400" height="500">
+<svg viewBox="0 0 1400 500" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Dark background gradient -->
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Background gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#1a1a1a;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#0d0d0d;stop-opacity:1" />
     </linearGradient>
-    <!-- Card gradient -->
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#2e2e2e;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1e1e1e;stop-opacity:1" />
-    </linearGradient>
-    <!-- Subtle vignette -->
-    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
-      <stop offset="60%" style="stop-color:#000000;stop-opacity:0" />
-      <stop offset="100%" style="stop-color:#000000;stop-opacity:0.6" />
+    
+    <!-- Card background gradient -->
+    <radialGradient id="cardGradient" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" style="stop-color:#3a3a3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1f1f1f;stop-opacity:1" />
     </radialGradient>
-    <!-- Card shadow filter -->
-    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
-    </filter>
-    <!-- Subtle noise texture -->
-    <filter id="noise">
-      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/>
-      <feColorMatrix type="saturate" values="0"/>
-      <feBlend in="SourceGraphic" mode="overlay" result="noisy"/>
-      <feComposite in="noisy" in2="SourceGraphic" operator="in"/>
+    
+    <!-- Shadow filter -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="2" stdDeviation="4" flood-color="#000000" flood-opacity="0.6"/>
     </filter>
   </defs>
 
-  <!-- Background -->
-  <rect width="1400" height="500" fill="url(#bgGrad)"/>
-  <!-- Subtle texture overlay -->
-  <rect width="1400" height="500" fill="#222" opacity="0.3" filter="url(#noise)"/>
-  <!-- Vignette overlay -->
-  <rect width="1400" height="500" fill="url(#vignette)"/>
+  <!-- Main background -->
+  <rect width="1400" height="500" fill="url(#bgGradient)"/>
+  
+  <!-- Subtle vignette -->
+  <rect width="1400" height="500" fill="#000000" opacity="0.15"/>
 
-  <!-- NAME: JAMEER AHMED in large serif style -->
-  <text x="700" y="140"
-    font-family="'Georgia', 'Times New Roman', serif"
-    font-size="120"
-    font-weight="300"
-    fill="#ffffff"
+  <!-- JAMEER AHMED - Main Title -->
+  <text x="700" y="130" 
+    font-family="Georgia, serif" 
+    font-size="110" 
+    font-weight="300" 
+    fill="#ffffff" 
     text-anchor="middle"
-    letter-spacing="12"
-    style="font-variant: normal;">JAMEER AHMED</text>
+    letter-spacing="8"
+    style="text-shadow: 0 2px 10px rgba(0,0,0,0.5);">JAMEER AHMED</text>
 
-  <!-- Subtitle: FULL STACK DEVELOPER -->
-  <text x="700" y="200"
-    font-family="'Trebuchet MS', 'Arial', sans-serif"
-    font-size="28"
-    font-weight="300"
-    fill="#cccccc"
+  <!-- FULL STACK DEVELOPER - Subtitle -->
+  <text x="700" y="185" 
+    font-family="Arial, sans-serif" 
+    font-size="26" 
+    font-weight="300" 
+    fill="#d0d0d0" 
     text-anchor="middle"
-    letter-spacing="14">FULL STACK DEVELOPER</text>
+    letter-spacing="12">FULL STACK DEVELOPER</text>
 
-  <!-- ===== CARD 1: MICROSOFT ===== -->
-  <!-- Card background -->
-  <rect x="120" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="120" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
+  <!-- ===== CARD 1: MICROSOFT STUDENT AMBASSADOR ===== -->
+  <g filter="url(#shadow)">
+    <!-- Card background -->
+    <rect x="145" y="280" width="220" height="180" rx="18" fill="url(#cardGradient)" stroke="#404040" stroke-width="1"/>
+    
+    <!-- Microsoft Logo (4 squares) -->
+    <rect x="205" y="300" width="22" height="22" fill="#F25022"/>
+    <rect x="232" y="300" width="22" height="22" fill="#7FBA00"/>
+    <rect x="205" y="327" width="22" height="22" fill="#00A4EF"/>
+    <rect x="232" y="327" width="22" height="22" fill="#FFB900"/>
+    
+    <!-- Text -->
+    <text x="255" y="380" 
+      font-family="Arial, sans-serif" 
+      font-size="16" 
+      font-weight="bold" 
+      fill="#ffffff" 
+      text-anchor="middle">MICROSOFT</text>
+    <text x="255" y="400" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">STUDENT</text>
+    <text x="255" y="418" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">AMBASSADOR</text>
+  </g>
 
-  <!-- Microsoft Logo (4 colored squares) -->
-  <!-- Red square -->
-  <rect x="185" y="300" width="30" height="30" fill="#F25022"/>
-  <!-- Green square -->
-  <rect x="220" y="300" width="30" height="30" fill="#7FBA00"/>
-  <!-- Blue square -->
-  <rect x="185" y="335" width="30" height="30" fill="#00A4EF"/>
-  <!-- Yellow square -->
-  <rect x="220" y="335" width="30" height="30" fill="#FFB900"/>
+  <!-- ===== CARD 2: AWS CLOUD CAPTAIN ===== -->
+  <g filter="url(#shadow)">
+    <!-- Card background -->
+    <rect x="425" y="280" width="220" height="180" rx="18" fill="url(#cardGradient)" stroke="#404040" stroke-width="1"/>
+    
+    <!-- AWS text -->
+    <text x="535" y="340" 
+      font-family="Arial, sans-serif" 
+      font-size="48" 
+      font-weight="bold" 
+      fill="#ffffff" 
+      text-anchor="middle">aws</text>
+    
+    <!-- AWS smile arc -->
+    <path d="M 495 355 Q 535 375 575 355" 
+      fill="none" 
+      stroke="#FF9900" 
+      stroke-width="5" 
+      stroke-linecap="round"/>
+    
+    <!-- Text -->
+    <text x="535" y="380" 
+      font-family="Arial, sans-serif" 
+      font-size="16" 
+      font-weight="bold" 
+      fill="#ffffff" 
+      text-anchor="middle">AWS</text>
+    <text x="535" y="400" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">CLOUD</text>
+    <text x="535" y="418" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">CAPTAIN</text>
+  </g>
 
-  <!-- Microsoft text -->
-  <text x="240" y="395"
-    font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="18"
-    font-weight="800"
-    fill="#ffffff"
-    text-anchor="middle"
-    letter-spacing="0.5">MICROSOFT</text>
-  <text x="240" y="417"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">STUDENT</text>
-  <text x="240" y="438"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">AMBASSADOR</text>
+  <!-- ===== CARD 3: GOOGLE DEVELOPER GROUPS ===== -->
+  <g filter="url(#shadow)">
+    <!-- Card background -->
+    <rect x="705" y="280" width="220" height="180" rx="18" fill="url(#cardGradient)" stroke="#404040" stroke-width="1"/>
+    
+    <!-- Google Developers Logos (pills/capsules) -->
+    <!-- Red pill -->
+    <rect x="745" y="305" width="28" height="14" rx="7" fill="#EA4335" transform="rotate(-25 759 312)"/>
+    <!-- Green pill -->
+    <rect x="790" y="305" width="28" height="14" rx="7" fill="#34A853" transform="rotate(25 804 312)"/>
+    <!-- Blue pill -->
+    <rect x="755" y="335" width="28" height="14" rx="7" fill="#4285F4" transform="rotate(25 769 342)"/>
+    <!-- Yellow pill -->
+    <rect x="800" y="335" width="28" height="14" rx="7" fill="#FBBC05" transform="rotate(-25 814 342)"/>
+    
+    <!-- Text -->
+    <text x="815" y="380" 
+      font-family="Arial, sans-serif" 
+      font-size="16" 
+      font-weight="bold" 
+      fill="#ffffff" 
+      text-anchor="middle">GOOGLE</text>
+    <text x="815" y="400" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">DEVELOPER</text>
+    <text x="815" y="418" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">GROUPS</text>
+  </g>
 
-  <!-- ===== CARD 2: AWS ===== -->
-  <rect x="430" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="430" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
-
-  <!-- AWS Logo text "aws" -->
-  <text x="550" y="345"
-    font-family="'Arial Black', 'Helvetica Neue', sans-serif"
-    font-size="38"
-    font-weight="900"
-    fill="#ffffff"
-    text-anchor="middle"
-    letter-spacing="1">aws</text>
-  <!-- AWS smile arrow (orange arc) -->
-  <path d="M 495 360 Q 550 385 605 360"
-    fill="none"
-    stroke="#FF9900"
-    stroke-width="4"
-    stroke-linecap="round"/>
-  <!-- Arrow tip on the right -->
-  <polygon points="602,352 612,360 602,368" fill="#FF9900"/>
-
-  <!-- AWS text -->
-  <text x="550" y="395"
-    font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="18"
-    font-weight="800"
-    fill="#ffffff"
-    text-anchor="middle"
-    letter-spacing="0.5">AWS</text>
-  <text x="550" y="417"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">CLOUD</text>
-  <text x="550" y="438"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">CAPTAIN</text>
-
-  <!-- ===== CARD 3: GOOGLE ===== -->
-  <rect x="740" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="740" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
-
-  <!-- Google Developer Groups Logo (pill shapes) -->
-  <!-- Blue pill (left, angled) -->
-  <rect x="790" y="305" width="50" height="24" rx="12" ry="12" fill="#4285F4" transform="rotate(-35 815 317)"/>
-  <!-- Red pill (top right, angled) -->
-  <rect x="835" y="305" width="50" height="24" rx="12" ry="12" fill="#EA4335" transform="rotate(35 860 317)"/>
-  <!-- Yellow pill (bottom left, angled) -->
-  <rect x="790" y="335" width="50" height="24" rx="12" ry="12" fill="#FBBC05" transform="rotate(35 815 347)"/>
-  <!-- Green pill (bottom right, angled) -->
-  <rect x="835" y="335" width="50" height="24" rx="12" ry="12" fill="#34A853" transform="rotate(-35 860 347)"/>
-
-  <!-- Google text -->
-  <text x="860" y="395"
-    font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="18"
-    font-weight="800"
-    fill="#ffffff"
-    text-anchor="middle"
-    letter-spacing="0.5">GOOGLE</text>
-  <text x="860" y="417"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">DEVELOPER</text>
-  <text x="860" y="438"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">GROUPS</text>
-
-  <!-- ===== CARD 4: LEETCODE ===== -->
-  <rect x="1050" y="270" width="240" height="200" rx="20" ry="20" fill="url(#cardGrad)" filter="url(#cardShadow)"/>
-  <rect x="1050" y="270" width="240" height="200" rx="20" ry="20" fill="none" stroke="#3a3a3a" stroke-width="1.5"/>
-
-  <!-- LeetCode Logo (stylized C with < and =) -->
-  <!-- Outer orange arc -->
-  <path d="M 1155 300 A 30 30 0 0 0 1155 360"
-    fill="none"
-    stroke="#FFA116"
-    stroke-width="11"
-    stroke-linecap="round"/>
-  <!-- < chevron (white) -->
-  <polyline points="1140,315 1122,330 1140,345"
-    fill="none"
-    stroke="#ffffff"
-    stroke-width="7"
-    stroke-linecap="round"
-    stroke-linejoin="round"/>
-  <!-- = two lines (white) -->
-  <line x1="1130" y1="320" x2="1150" y2="320" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
-  <line x1="1130" y1="335" x2="1150" y2="335" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
-
-  <!-- Leetcode text -->
-  <text x="1170" y="395"
-    font-family="'Arial Black', 'Arial', sans-serif"
-    font-size="18"
-    font-weight="800"
-    fill="#ffffff"
-    text-anchor="middle"
-    letter-spacing="0.5">LEETCODE</text>
-  <text x="1170" y="417"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">PROBLEM</text>
-  <text x="1170" y="438"
-    font-family="'Arial', sans-serif"
-    font-size="15"
-    font-weight="400"
-    fill="#bbbbbb"
-    text-anchor="middle">SOLVING</text>
-
+  <!-- ===== CARD 4: LEETCODE PROBLEM SOLVING ===== -->
+  <g filter="url(#shadow)">
+    <!-- Card background -->
+    <rect x="985" y="280" width="220" height="180" rx="18" fill="url(#cardGradient)" stroke="#404040" stroke-width="1"/>
+    
+    <!-- LeetCode Logo -->
+    <!-- Orange curved bracket -->
+    <path d="M 1045 310 Q 1030 325 1045 340" 
+      fill="none" 
+      stroke="#FFA116" 
+      stroke-width="12" 
+      stroke-linecap="round"/>
+    
+    <!-- White horizontal bars -->
+    <rect x="1055" y="318" width="30" height="4" fill="#ffffff" rx="2"/>
+    <rect x="1055" y="332" width="30" height="4" fill="#ffffff" rx="2"/>
+    
+    <!-- Orange equal sign base -->
+    <rect x="1090" y="318" width="20" height="4" fill="#FFA116" rx="2"/>
+    <rect x="1090" y="332" width="20" height="4" fill="#FFA116" rx="2"/>
+    
+    <!-- Text -->
+    <text x="1095" y="380" 
+      font-family="Arial, sans-serif" 
+      font-size="16" 
+      font-weight="bold" 
+      fill="#ffffff" 
+      text-anchor="middle">LEETCODE</text>
+    <text x="1095" y="400" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">PROBLEM</text>
+    <text x="1095" y="418" 
+      font-family="Arial, sans-serif" 
+      font-size="13" 
+      font-weight="normal" 
+      fill="#aaaaaa" 
+      text-anchor="middle">SOLVING</text>
+  </g>
 </svg>
