@@ -13,16 +13,7 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://imgur.com/TBD.png" alt="Jameer Ahmed - Full Stack Developer Banner"/>
-
-</div>
-
-<br/>
-
+ 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%F0%9F%8E%93+Microsoft+Student+Ambassador+%F0%9F%94%B5+GDG+Technical+Lead+%F0%9F%A7%A0+LeetCode+Problem+Solving)]
