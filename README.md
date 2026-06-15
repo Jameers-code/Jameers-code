@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
 <img width="100%" src="./header.svg" alt="header"/>
 
@@ -17,7 +17,15 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%40+Amazon+Web+Services;🎓+Microsoft+Learn+Student+Ambassador+(MLSA);🔵+GDG+Technical+Associate+Lead+%40+Google;🚀+Product+Contributor+%40+DevLoom;🧠+250%2B+LeetCode+%7C+223-Day+Max+Streak;🏆+BizVIT+Hackathon+Winner+%7C+Top+2+Mentor+India;💭+Always+Building+Something+New...)](https://git.io/typing-svg)
+<img width="100%" src="https://imgur.com/TBD.png" alt="Jameer Ahmed - Full Stack Developer Banner"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%F0%9F%8E%93+Microsoft+Student+Ambassador+%F0%9F%94%B5+GDG+Technical+Lead+%F0%9F%A7%A0+LeetCode+Problem+Solving)]
 
 <br/>
 
@@ -173,14 +181,14 @@ const jameer: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jameers-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jameers-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jameers-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Jameers-code&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Jameers-code&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa"/>
 
 </div>
 
@@ -232,7 +240,7 @@ const jameer: Developer = {
 
 <div align="center">
 
-[![Jameer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jameers-code&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jameer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jameers-code&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/Jameers-code)
 
 </div>
 
