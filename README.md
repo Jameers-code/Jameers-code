@@ -213,31 +213,8 @@ const jameer: Developer = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Jameers-code/Jameers-code/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Jameer's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jameers-code&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/Jameers-code)
-
-</div>
-
----
-
-<div align="center">
 
 ## 🤝 Let's Build Something Together!
 
