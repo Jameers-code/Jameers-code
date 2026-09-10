@@ -16,7 +16,7 @@
  
 <div align="center">
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%F0%9F%8E%93+Microsoft+Student+Ambassador+%F0%9F%94%B5+GDG+Technical+Lead+%F0%9F%A7%A0+LeetCode+Problem+Solving)
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=900&lines=%E2%98%81%EF%B8%8F+AWS+Cloud+Captain%F0%9F%8E%93%0AMicrosoft+Student+Ambassador%F0%9F%94%B5%0AGDG+Technical+Lead%F0%9F%A7%A0%0ALeetCode+Problem+Solving)
 
 <br/>
 
@@ -27,7 +27,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameer.xxvi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jameers-code)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jameers-code&color=a78bfa&style=flat-square&label=Profile+Views)
+
 
 </div>
 
@@ -43,9 +43,9 @@ const jameer: Developer = {
   batch       : "2023 – 2027",
 
   roles       : [
-    "☁️  AWS Cloud Captain"(Amazon Web Services),
+    "☁️  AWS Cloud Captain @ Amazon Web Services",
     "🎓  Microsoft Student Ambassador (MLSA)",
-    "🔵  GDG Technical Associate Lead"(Google Developer Groups),
+    "🔵  GDG Technical Associate Lead @ Google Developer Groups",
     "🔓  Product Contributor @ DevLoom",
   ],
 
