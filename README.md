@@ -31,30 +31,21 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const jameer: Developer = {
-  name        : "Shaik Jameer Ahmed",
-  location    : "Bhimavaram, Andhra Pradesh 🇮🇳",
-  education   : "B.Tech CS & Business Systems @ Vishnu Institute of Technology (CGPA: 8.5)",
-  batch       : "2023 – 2027",
-
-  roles       : [
-    "☁️  AWS Cloud Captain @ Amazon Web Services",
-    "🎓  Microsoft Student Ambassador (MLSA)",
-    "🔵  GDG Technical Associate Lead @ Google Developer Groups",
-    "🔓  Product Contributor @ DevLoom",
-  ],
-
-  currentFocus: "Full-Stack Dev + Cloud + DSA + Community Building",
-  seeking     : "SDE Internship Opportunities 🚀",
-
-  strengths   : ["Problem Solving", "Public Speaking", "Mentorship", "Community Building"],
-  funFact     : "223-day max LeetCode streak — consistency is my superpower 🔥",
-  status      : "💭 always building...",
-};
-```
-
 <div align="center">
+
+# I DON'T JUST WRITE CODE.
+## I BUILD WHAT'S NEXT.
+
+<br/>
+
+**I'm Jameer Ahmed** — a Full-Stack Developer and Cloud-focused student specializing in
+building scalable web architectures, AI-integrated platforms, and refined digital
+experiences. With a strong algorithmic foundation and a focus on clean engineering,
+I turn complex requirements into impactful products.
+
+<sub>📍 Bhimavaram, Andhra Pradesh &nbsp;·&nbsp; 🎓 B.Tech CS & Business Systems, Vishnu Institute of Technology &nbsp;·&nbsp; 2023 – 2027</sub>
+
+<br/><br/>
 
 |  🏆 8.5  |  🔥 223  |  🧑‍🤝‍🧑 200+  |  🥈 Top 2  |
 |:---:|:---:|:---:|:---:|
