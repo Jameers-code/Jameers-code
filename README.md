@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="./header.svg" alt="header"/>
 
@@ -55,39 +55,59 @@ const jameer: Developer = {
 };
 ```
 
+<div align="center">
+
+|  🏆 8.5  |  🔥 223  |  🧑‍🤝‍🧑 200+  |  🥈 Top 2  |
+|:---:|:---:|:---:|:---:|
+| **B.TECH CGPA** | **DAY LEETCODE STREAK** | **STUDENTS MENTORED** | **GDG MENTOR (NATIONAL)** |
+
+</div>
+
 ---
 
 ## 💼 Experience & Leadership
 
-<div align="center">
+<table>
+<tr>
+<td width="160" valign="top"><sub><b>Feb 2026 – Present</b></sub></td>
+<td>
 
 ### ☁️ AWS Cloud Captain — Amazon Web Services
-`Feb 2026 – Present`
+Founded the **first official AWS Cloud Club** on campus · Selected among a **global cohort** of AWS student leaders · Organized workshops on cloud architecture & serverless computing for **150+ students**
 
-> Founded the **first official AWS Cloud Club** on campus · Selected among a **global cohort** of AWS student leaders · Organized workshops on cloud architecture & serverless computing for **150+ students**
-
----
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="160" valign="top"><sub><b>Apr 2026 – Present</b></sub></td>
+<td>
 
 ### 🎓 Microsoft Learn Student Ambassador — Microsoft
-`Apr 2026 – Present`
+Selected among **3,000 global ambassadors** · Delivered Azure, AI & cloud-native workshops to **100+ students/session** alongside Microsoft Engineers & MVPs
 
-> Selected among **3,000 global ambassadors** · Delivered Azure, AI & cloud-native workshops to **100+ students/session** alongside Microsoft Engineers & MVPs
-
----
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="160" valign="top"><sub><b>Aug 2025 – Present</b></sub></td>
+<td>
 
 ### 🔵 GDG Technical Associate Lead — Google Developer Groups
-`Aug 2025 – Present`
+Mentored **200+ participants** at HACK-A-TRON 3.0 · Recognized as **Top 2 Mentor Nationally** · Led Google Cloud & AI Study Jams → Institution achieved **Tier-1 GDG status in India**
 
-> Mentored **200+ participants** at HACK-A-TRON 3.0 · Recognized as **Top 2 Mentor Nationally** · Led Google Cloud & AI Study Jams → Institution achieved **Tier-1 GDG status in India**
-
----
+</td>
+</tr>
+<tr><td colspan="2"><hr></td></tr>
+<tr>
+<td width="160" valign="top"><sub><b>Jan 2026 – Present</b></sub></td>
+<td>
 
 ### 🔓 Product Contributor — DevLoom
-`Jan 2026 – Present`
+Built frontend components using **Next.js & TypeScript** for a platform serving **300+ active users** · Contributed feature ideas and production-grade UI
 
-> Built frontend components using **Next.js & TypeScript** for a platform serving **300+ active users** · Contributed feature ideas and production-grade UI
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -209,9 +229,6 @@ const jameer: Developer = {
 </div>
 
 ---
-
----
-
 
 ## 🤝 Let's Build Something Together!
 
