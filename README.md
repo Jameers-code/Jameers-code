@@ -15,8 +15,7 @@
 
 <div align="center">
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%F0%9F%8E%93+Microsoft+Student+Ambassador+%F0%9F%94%B5+GDG+Technical+Lead+%F0%9F%A7%A0+LeetCode+Problem+Solving)
-
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=520&height=40&lines=☁️+AWS+Cloud+Captain;🎓+Microsoft+Student+Ambassador;🔵+GDG+Technical+Lead;🧠+LeetCode+Problem+Solving)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameer-ahmed-6047b3288)
