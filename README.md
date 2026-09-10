@@ -13,8 +13,11 @@
 
 </div>
 
- 
+<div align="center">
 
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=☁️+AWS+Cloud+Captain+%F0%9F%8E%93+Microsoft+Student+Ambassador+%F0%9F%94%B5+GDG+Technical+Lead+%F0%9F%A7%A0+LeetCode+Problem+Solving)
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameer-ahmed-6047b3288)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jameer-xxvi/)
@@ -23,9 +26,7 @@
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jameer.xxvi@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jameers-code)
 
-
-
-</div>
+<br/>
 
 ---
 
