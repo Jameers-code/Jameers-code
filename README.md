@@ -16,7 +16,9 @@
  
 <div align="center">
 
- ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=900&lines=%E2%98%81%EF%B8%8F+AWS+Cloud+Captain%F0%9F%8E%93%0AMicrosoft+Student+Ambassador%F0%9F%94%B5%0AGDG+Technical+Lead%F0%9F%A7%A0%0ALeetCode+Problem+Solving)
+<marquee behavior="scroll" direction="left" scrollamount="4" style="font-family: 'JetBrains Mono', monospace; font-size: 18px; font-weight: 700; color: #A78BFA; width: 90%;">
+  ☁️ AWS Cloud Captain &nbsp;&nbsp;&nbsp; 🎓 Microsoft Student Ambassador &nbsp;&nbsp;&nbsp; 🔵 GDG Technical Lead &nbsp;&nbsp;&nbsp; 🧠 LeetCode Problem Solving
+</marquee>
 
 <br/>
 
