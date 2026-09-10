@@ -14,13 +14,7 @@
 </div>
 
  
-<div align="center">
 
-<marquee behavior="scroll" direction="left" scrollamount="4" style="font-family: 'JetBrains Mono', monospace; font-size: 18px; font-weight: 700; color: #A78BFA; width: 90%;">
-  ☁️ AWS Cloud Captain &nbsp;&nbsp;&nbsp; 🎓 Microsoft Student Ambassador &nbsp;&nbsp;&nbsp; 🔵 GDG Technical Lead &nbsp;&nbsp;&nbsp; 🧠 LeetCode Problem Solving
-</marquee>
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameer-ahmed-6047b3288)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/jameer-xxvi/)
