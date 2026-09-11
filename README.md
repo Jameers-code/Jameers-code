@@ -28,9 +28,6 @@
 <br/>
 
 ---
-
-## 🧑‍💻 About Me
-
 <div align="center">
 <img width="100%" src="./about-section.svg" alt="About Me"/>
 </div>
