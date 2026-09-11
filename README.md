@@ -33,9 +33,6 @@
 </div>
 
 ---
-
-## 💼 Experience & Leadership
-
 <div align="center">
 <img width="100%" src="./experience-section.svg" alt="Experience & Leadership"/>
 </div>
