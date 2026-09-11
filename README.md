@@ -1,5 +1,17 @@
  <div align="center">
 
+## 🧑‍💻 About Me
+
+<img width="100%" src="./about-section.svg" alt="About Me"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
 <img width="100%" src="./header.svg" alt="header"/>
 
 </div>
@@ -28,11 +40,9 @@
 <br/>
 
 ---
-<div align="center">
-<img width="100%" src="./about-section.svg" alt="About Me"/>
-</div>
 
----
+## 💼 Experience & Leadership
+
 <div align="center">
 <img width="100%" src="./experience-section.svg" alt="Experience & Leadership"/>
 </div>
