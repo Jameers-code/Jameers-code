@@ -1,0 +1,39 @@
+<svg width="1450" height="660" viewBox="0 0 1450 660" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="cardYellow" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#facc15"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient>
+  <linearGradient id="cardRed" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#f87171"/><stop offset="100%" stop-color="#ef4444"/></linearGradient>
+  <linearGradient id="cardGreen" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#4ade80"/><stop offset="100%" stop-color="#22c55e"/></linearGradient>
+  <linearGradient id="cardPurple" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#c084fc"/><stop offset="100%" stop-color="#a855f7"/></linearGradient>
+  <linearGradient id="divider" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#0b0f19" stop-opacity="0"/><stop offset="50%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#0b0f19" stop-opacity="0"/></linearGradient>
+</defs>
+
+<rect width="1450" height="660" fill="#0a0e16"/>
+<rect x="6" y="6" width="1438" height="648" rx="26" fill="#0b0f19" stroke="#1e293b" stroke-width="2"/>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="34"><tspan x="576.5" y="66" textLength="237.5" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="700">🧑‍💼 About</tspan><tspan x="825.9" y="66" textLength="47.5" lengthAdjust="spacingAndGlyphs" fill="#4da6ff" font-weight="700">Me</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="56"><tspan x="203.9" y="150" textLength="534.3" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="800">I DON’T JUST</tspan><tspan x="763.4" y="150" textLength="482.8" lengthAdjust="spacingAndGlyphs" fill="#3b82f6" font-weight="800">WRITE CODE.</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="56"><tspan x="282.2" y="222" textLength="46.6" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="800">I</tspan><tspan x="354.1" y="222" textLength="236.8" lengthAdjust="spacingAndGlyphs" fill="#fb923c" font-weight="800">BUILD</tspan><tspan x="616.0" y="222" textLength="551.7" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="800">WHAT’S NEXT.</tspan></text>
+<rect x="675.0" y="252" width="100" height="3" rx="1.5" fill="url(#divider)"/>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="21"><tspan x="314.0" y="302" textLength="240.0" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >I’m Jameer Ahmed — a</tspan><tspan x="563.5" y="302" textLength="259.6" lengthAdjust="spacingAndGlyphs" fill="#60a5fa" font-weight="700">Full-Stack Developer</tspan><tspan x="832.5" y="302" textLength="34.7" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >and</tspan><tspan x="876.6" y="302" textLength="169.1" lengthAdjust="spacingAndGlyphs" fill="#fb923c" font-weight="700">Cloud-focused</tspan><tspan x="1055.2" y="302" textLength="80.8" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >student</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="21"><tspan x="296.6" y="332" textLength="856.8" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >specializing in building scalable web architectures, AI-integrated platforms,</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="21"><tspan x="548.7" y="362" textLength="352.6" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >and refined digital experiences.</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="21"><tspan x="331.3" y="392" textLength="142.4" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >With a strong</tspan><tspan x="483.1" y="392" textLength="273.3" lengthAdjust="spacingAndGlyphs" fill="#f87171" font-weight="700">algorithmic foundation</tspan><tspan x="765.9" y="392" textLength="352.8" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >and a focus on clean engineering,</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="21"><tspan x="439.9" y="422" textLength="570.2" lengthAdjust="spacingAndGlyphs" fill="#cbd5e1" >I turn complex requirements into impactful products.</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="18"><tspan x="183.8" y="472" textLength="280.8" lengthAdjust="spacingAndGlyphs" fill="#94a3b8" >📍 Bhimavaram, Andhra Pradesh</tspan><tspan x="475.4" y="472" textLength="9.9" lengthAdjust="spacingAndGlyphs" fill="#475569" >|</tspan><tspan x="496.1" y="472" textLength="606.6" lengthAdjust="spacingAndGlyphs" fill="#94a3b8" >🎓 B.Tech CS &amp; Business Systems, Vishnu Institute of Technology</tspan><tspan x="1113.5" y="472" textLength="9.9" lengthAdjust="spacingAndGlyphs" fill="#475569" >|</tspan><tspan x="1134.2" y="472" textLength="132.1" lengthAdjust="spacingAndGlyphs" fill="#94a3b8" >📅 2023 – 2027</tspan></text>
+<rect x="50" y="520" width="320" height="108" rx="14" fill="#111827" stroke="#f59e0b" stroke-opacity="0.35" stroke-width="1.5"/>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="30"><tspan x="160.8" y="568" textLength="98.3" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="800">🏆 8.5</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="13"><tspan x="155.0" y="594" textLength="110.0" lengthAdjust="spacingAndGlyphs" fill="#94a3b8" >B.TECH CGPA</tspan></text>
+<rect x="80" y="608" width="260" height="4" rx="2" fill="url(#cardYellow)"/>
+<rect x="394" y="520" width="320" height="108" rx="14" fill="#111827" stroke="#ef4444" stroke-opacity="0.35" stroke-width="1.5"/>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="30"><tspan x="504.9" y="568" textLength="98.3" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="800">🔥 223</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="13"><tspan x="457.3" y="594" textLength="193.4" lengthAdjust="spacingAndGlyphs" fill="#94a3b8" >DAY LEETCODE STREAK</tspan></text>
+<rect x="424" y="608" width="260" height="4" rx="2" fill="url(#cardRed)"/>
+<rect x="738" y="520" width="320" height="108" rx="14" fill="#111827" stroke="#22c55e" stroke-opacity="0.35" stroke-width="1.5"/>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="30"><tspan x="839.8" y="568" textLength="116.5" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="800">👥 200+</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="13"><tspan x="809.3" y="594" textLength="177.4" lengthAdjust="spacingAndGlyphs" fill="#94a3b8" >STUDENTS MENTORED</tspan></text>
+<rect x="768" y="608" width="260" height="4" rx="2" fill="url(#cardGreen)"/>
+<rect x="1082" y="520" width="318" height="108" rx="14" fill="#111827" stroke="#a855f7" stroke-opacity="0.35" stroke-width="1.5"/>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="30"><tspan x="1175.3" y="568" textLength="131.3" lengthAdjust="spacingAndGlyphs" fill="#f8fafc" font-weight="800">🥈 Top 2</tspan></text>
+<text font-family="Segoe UI, Arial, sans-serif" font-size="13"><tspan x="1135.7" y="594" textLength="210.7" lengthAdjust="spacingAndGlyphs" fill="#94a3b8" >GDG MENTOR (NATIONAL)</tspan></text>
+<rect x="1112" y="608" width="258" height="4" rx="2" fill="url(#cardPurple)"/>
+</svg>
