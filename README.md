@@ -1,5 +1,7 @@
  <div align="center">
 
+## 🧑‍💻 About Me
+
 <img width="100%" src="./about-section.svg" alt="About Me"/>
 
 </div>
@@ -10,7 +12,7 @@
 
 <div align="center">
 
-<img width="100%" src="./header.png" alt="Jameer Ahmed - Full Stack Developer"/>
+<img width="100%" src="./header.svg" alt="header"/>
 
 </div>
 
@@ -25,8 +27,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=520&height=40&lines=☁️+AWS+Cloud+Captain;🎓+Microsoft+Student+Ambassador;🔵+GDG+Technical+Lead;🧠+LeetCode+Problem+Solving)
-
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=520&height=40&lines=☁️+AWS+Cloud+Captain;🎓+Microsoft+Student+Ambassador;🔵+GDG+Technical+Lead;🧠+LeetCode+Problem+Solving)
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameer-ahmed-6047b3288)
@@ -40,10 +41,10 @@
 
 ---
 
+## 💼 Experience & Leadership
+
 <div align="center">
-
 <img width="100%" src="./experience-section.svg" alt="Experience & Leadership"/>
-
 </div>
 
 ---
@@ -127,7 +128,6 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jameers-code&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jameers-code&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
 
 </div>
@@ -183,7 +183,6 @@
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Jameers-code?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&label=FOLLOWERS)](https://github.com/Jameers-code?tab=followers)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Jameers-code&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
