@@ -1,6 +1,6 @@
  <div align="center">
 
-<img width="100%" src="./about-section.svg" alt="About Me"/>
+<img width="100%" src="./header.svg" alt="header"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img width="100%" src="./header.svg" alt="header"/>
+<img width="100%" src="./about-section.svg" alt="About Me"/>
 
 </div>
 
